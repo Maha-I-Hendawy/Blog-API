@@ -22,31 +22,6 @@ Prequisites:
 
 
 
-Installation
-
-= step by step instructions on how to install the software
-
-example that shows how the software works
-
-
-Contributing
-
-Issue tracker: github.com/project/issues
-
-License
-
-Provide licensing information
-
-Citation
-
-= How this software can be cited
-= Provide a DOI that was generated
-
-Contact
-
-Link to email address or URIs
-
-
 A list of all the Functions in this Blog API project:
 
 = Users functions:
